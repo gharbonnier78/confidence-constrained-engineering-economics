@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Confidence-Constrained Engineering Economics"
+message: "If you use this work, please cite the article and repository."
+authors:
+  - family-names: "Harbonnier"
+    given-names: "Guillaume"
+version: "0.1.0"
+date-released: "2026-05-29"

@@ -6,6 +6,12 @@ This repository contains a foundation article and LinkedIn carousel package arou
 
 The article is intentionally **STRAT-Q agnostic**. It establishes a generic engineering economics and Bayesian trade-off foundation that can later be reinforced by a separate STRAT-Q companion document.
 
+<p align="center">
+  <a href="./dist/Confidence_Constrained_Engineering_Economics_arxiv.pdf">
+    <img src="https://img.shields.io/badge/Open-Article-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open PDF">
+  </a>
+</p>
+
 ## Core idea
 
 FinOps tells engineering what technology costs. Confidence-constrained engineering economics asks what that cost buys in terms of evidence, margin protection, residual risk reduction, security exposure, sovereignty exposure, delivery flow, and AI inference independence.
